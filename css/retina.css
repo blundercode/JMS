@@ -1,0 +1,66 @@
+/*
+    Retina ready styles
+*/
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min--moz-device-pixel-ratio: 1.5),
+only screen and (-o-min-device-pixel-ratio: 3/2),
+only screen and (min-device-pixel-ratio: 1.5){
+
+    .search-type-1 #search-box .inner-search-submit,
+    .search-type-2 #search-box .inner-search-submit,
+    .search-type-5 #search-box .inner-search-submit,
+    .widget_search .search-submit {
+        background-image: url('../img/search-white@2x.png');
+        background-size: 15px 15px;
+    }
+
+    .search-type-4 #search-box .inner-search-submit {
+        background-image: url('../img/search@2x.png');
+        background-size: 16px 16px;
+    }
+
+    .widget_search .search-submit{
+        background-image: url('../img/search-white@2x.png');
+        background-size: 15px 15px;
+    }
+
+    .ms-staff-carousel .testimonials-slider .ms-nav-next {
+        background-image: url('../img/slider/slide-next@2x.png');
+        background-size: 13px 13px;
+    }
+    .ms-staff-carousel .testimonials-slider .ms-nav-prev {
+        background-image: url('../img/slider/slide-prev@2x.png');
+        background-size: 13px 13px;
+    }
+
+    .scroll-up{
+        background-image: url('../img/to-top@2x.png');
+        background-size: 10px 6px;
+    }
+
+    #client-carousel.owl-theme .owl-controls .owl-buttons .owl-prev {
+        background-image: url('../img/owl-prev@2x.png');
+        background-size: 20px 38px;
+    }
+    #client-carousel.owl-theme .owl-controls .owl-buttons .owl-next {
+        background-image: url('../img/owl-next@2x.png');
+        background-size: 20px 38px;
+    }
+    #owl-testimonial.owl-theme .owl-controls .owl-buttons .owl-prev {
+        background-image: url('../img/owl-prev2@2x.png');
+        background-size: 31px 57px;
+    }
+    #owl-testimonial.owl-theme .owl-controls .owl-buttons .owl-next {
+        background-image: url('../img/owl-next2@2x.png');
+        background-size: 31px 57px;
+    }
+    #owl-testimonial.owl-theme .owl-controls .owl-buttons .owl-prev:hover {
+        background-image: url('../img/owl-prev2-hover@2x.png');
+        background-size: 31px 57px;
+    }
+    #owl-testimonial.owl-theme .owl-controls .owl-buttons .owl-next:hover {
+        background-image: url('../img/owl-next2-hover@2x.png');
+        background-size: 31px 57px;
+    }
+}
+

@@ -1,0 +1,246 @@
+/*
+    Default green color styles - You can change this color to any color you want
+*/
+
+a:hover, 
+span,
+#header-wrapper #header.dark #top-bar-wrapper #top-bar a:hover, 
+#header-wrapper #header.dark #top-bar-wrapper #top-bar i, 
+#header .navbar-default .navbar-nav > .current-menu-item > a,
+#header.dark .dropdown-menu > li.current-menu-item > a,
+#header.dark .pi-mm-list > li.current-menu-item > a,
+#header .dropdown-menu > li.current-menu-item > a,
+#header .pi-mm-list > li.current-menu-item > a,
+#header .navbar-default .navbar-nav > li>a:hover, 
+#header .navbar-default .navbar-nav > li >a:focus, 
+#header .pi-mm-list > li > a:hover, pi-mm-list > li > a:focus, 
+#header.dark .pi-mm-list > li > a:hover, pi-mm-list > li > a:focus,
+#header.dark .pi-mm-list > li > a:hover:after,
+#header .dropdown-menu > li > a:hover, 
+#header .dropdown-menu > li > a:focus, 
+#header .pi-mm-list > li > a:hover:after,
+#header.dark .dropdown-menu > li > a:hover, 
+#header.dark .dropdown-menu > li > a:focus, 
+#header .dropdown.dropdown-submenu > a:hover::after,
+#header.dark .dropdown.dropdown-submenu > a:hover::after,
+#header.header-type-1 .dropdown-menu > li > a:hover,
+#header.header-type-1 .dropdown-menu > li > a:focus,
+#header.header-type-1.dark .pi-mm-list > li > a:hover,
+#header.header-type-1.dark .pi-mm-list > li > a:focus,
+#header.header-type-1 .pi-mm-list > li > a:hover,
+#header.header-type-1 .pi-mm-list > li > a:focus,
+#header.header-type-1 .dropdown-menu > li > a:hover,
+#header.header-type-1.dark .dropdown-menu > li > a:hover,
+strong a,
+.search-type-3 #m_search:focus,
+.footer-widget-container .widget a:hover, 
+#copyright-container .breadcrumb li a:hover, 
+.fa-ul.colored i, 
+.fa-ul.large-icons .li-content h1:hover,
+.fa-ul.large-icons .li-content h2:hover,
+.fa-ul.large-icons .li-content h3:hover,
+.fa-ul.large-icons .li-content h4:hover,
+.fa-ul.large-icons .li-content h5:hover,
+.fa-ul.large-icons .li-content h6:hover, 
+.custom-background a:hover, 
+.widget_nav_menu .menu-menu-container .sub-menu .menu-item.current-menu-item a,
+.rpw_posts_widget li a:hover h4,
+.rpw_posts_widget.style-2 .body a:hover h3,
+.rpw_posts_widget.style-2 .body .comment-number:hover,
+.rpw_posts_widget ul > li:before,
+.aside-widgets .widget_archive li:before,
+.aside-widgets .widget_categories li:before,
+.widget_recent_comments .comment-meta .author,
+.header-info-widgets li .icon-container,
+.service-box-1:hover h3,
+.service-box-2:hover h3,
+.service-box-3:hover h3,
+.service-box-1:hover h4,
+.service-box-2:hover h4,
+.service-box-3:hover h4,
+.service-box-1:hover h5,
+.service-box-2:hover h5,
+.service-box-3:hover h5,
+.service-box-1:hover h6,
+.service-box-2:hover h6,
+.service-box-3:hover h6,
+.news-post:hover .post-body h3,
+.news-post:hover .post-comments p,
+.news-post:hover .post-tags p,
+.news-posts .news-post:hover .fa,
+.page-content ul li:before,
+.page-content .pagination li.active a,
+.page-content .pagination li:hover a,
+.post-share .social-links a:hover,
+.post-comments .author,
+.comment-meta .comment-reply-link:hover,
+.post-comments.post-comments-type-1 .fa,
+.post-comments.post-comments-type-2 .fa,
+.post-meta li a:hover,
+.post-meta li a:hover .fa,
+.post-body a:hover h3,
+h1 span, h2 span, h3 span,
+h4 span, h5 span, h6 span,
+.simple-heading span, ul li span,
+#copyright-container span,
+#copyright-container a,
+#copyright-container a:hover,
+.footer-widget-container .widget span,
+.team-members .team-member:hover h5.member-name,
+#filters li a:hover, #filters .active a,
+.portfolio-item-container:hover .title,
+.related-post:hover h4,
+.accordion .title.active a,
+.accordion.faq .title:hover a,
+.pricing-table-2-col.plan-3 ul li span,
+.btn.empty:hover span,
+.page-content.dark .wpcf7 .wpcf7-text:focus,
+.page-content.dark .wpcf7 .wpcf7-textarea:focus,
+.item-tags li,
+.pricing-table-col.selected ul .price p,
+.footer-style-2 .social-links li a:hover,
+.dark .btn-slide-down:hover .fa,
+.search-submit-wrapper:hover:before,
+.search-submit-wrapper.search-submit-active:before,
+.list-style-2 li:before,
+.no-touch .dl-menuwrapper li a:hover,
+.dl-menuwrapper li.dl-back:after,
+.dl-menuwrapper li > a:not(:only-child):after,
+.dl-menuwrapper li.dl-back:after,
+.master-slider .pi-list li:before {
+    color: #e74c3c;
+}
+.pricing-table-2-col.plan-3 .price p,
+.pricing-table-2-col.plan-3 .price p span,
+.pricing-table-col.selected .price p span{
+    color: #e74c3c !important;
+}
+strong,
+.service-box-2 h3{
+    color: #363636;
+}
+
+.search-type-2 #search-box .inner-search-submit,
+.search-type-5 #search-box .inner-search-submit,
+.search-type-6 #search-box .inner-search-submit,
+.service-box-1 .title-container .icon, 
+.fa-ul.large-icons.theme-color-icons .icon-container i, 
+.nivo-wrapper .nivo-directionNav a:hover,
+.social-links.theme-bkg li:hover,
+.page-content.parallax.dark .counter.theme-color .county-days-wrapper,
+.page-content.parallax .counter.theme-color .county-days-wrapper, 
+.page-content.custom-background .counter.theme-color .county-days-wrapper,
+.scroll-up:hover,
+.breadcrumbs-container.theme-color,
+.btn,
+#coming-soon .newsletter .submit,
+.rpw_posts_widget li .comment-container .date,
+.widget_tag_cloud a:hover,
+.header-type-2 .navbar-nav>li>a:hover,
+#header.header-type-2 .navbar-default .navbar-nav > .current-menu-item > a,
+#search .search-type-2 .inner-search-submit,
+.service-box-1:hover .icon-container,
+.service-box-2:hover .icon-container,
+.service-box-3:hover .icon-container,
+.news-posts .news-post:hover .post-category span,
+.page-content .pagination li .next-page:hover,
+.post-body .highlight,
+.post-media .highlight,
+.news-details .post-category span,
+.portfolio-item-buttons li a:hover,
+.related-post:hover .post-category span,
+.owl-carousel-navigation.owl-nav-type-3 .owl-controls .owl-nav .owl-prev:hover,
+.owl-carousel-navigation.owl-nav-type-3 .owl-controls .owl-nav .owl-next:hover,
+#client-carousel.owl-theme .owl-controls .owl-buttons .owl-prev:hover,
+#client-carousel.owl-theme .owl-controls .owl-buttons .owl-next:hover,
+#portfolio-details-carousel.owl-theme .owl-controls .owl-buttons .owl-next:hover,
+#portfolio-details-carousel.owl-theme .owl-controls .owl-buttons .owl-prev:hover,
+.load-more,
+.btn-video,
+.accordion.faq .title.active::before,
+.accordion.faq .title:hover::before,
+.pricing-table-2-col.plan-3 .head,
+.pricing-table-2-col.plan-3 .pricing-footer .btn,
+.page-content .newsletter .submit,
+.btn.black:hover,
+.btn.green,
+.pricing-table-col.selected .head,
+.btn-filter-active,
+.popup-btn-share,
+.blog-popup .post-category span,
+.widget_search .search-submit,
+.jp-play-bar,
+.jp-volume-bar-value {
+    background-color: #e74c3c;
+}
+
+.btn:hover,
+.newsletter .submit:hover,
+.scroll-up:hover,
+.search-type-2 #search-box .inner-search-submit:hover,
+.search-type-5 #search-box .inner-search-submit:hover,
+.search-type-6 #search-box .inner-search-submit:hover,
+.load-more:hover,
+.btn-video:hover,
+.btn.green:hover,
+.widget_search .search-submit:hover {
+    background-color: #ee634e;
+}
+
+.rpw_posts_widget li .comment-container .comment-number {
+    background-color: #4aafef;
+}
+
+.portfolio-filters-type-2 {
+    background-color: #c0392b;
+}
+
+/*  BORDERS
+============================================================================= */
+.tabs li.active,
+#header.header-type-1 .navbar-default .navbar-nav > .current-menu-item > a, 
+#header.header-type-1 .navbar-default .navbar-nav > li>a:hover, 
+#header.header-type-1 .navbar-default .navbar-nav > li >a:focus,
+.hint--theme-color.hint--top:before{
+    border-top-color: #e74c3c;
+    color: #e74c3c;
+}
+
+.widget_nav_menu .menu-menu-container .menu-item.current-menu-item,
+#header.header-type-1 .dropdown-menu > li > a:hover,
+#header.header-type-1.dark .dropdown-menu > li > a:hover,
+#header .dropdown-menu > li > a:hover,
+.blockquote {
+    border-left-color: #e74c3c;
+}
+.page-content.dark .wpcf7 .wpcf7-text:focus,
+.page-content.dark .wpcf7 .wpcf7-textarea:focus {
+    border-bottom-color: #e74c3c;
+}
+
+#coming-soon .newsletter .submit,
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls .owl-page span:hover,
+.page-content .pagination li.active a,
+.page-content .pagination li:hover a,
+#filters li a:hover,
+#filters .active a,
+.timer-container:before,
+.btn.empty:hover,
+.social-feed li:hover,
+.rpw_posts_widget li img:hover {
+    border-color: #e74c3c;
+}
+
+.blog-popup .post-category:before,
+.accordion .title.active::after {
+    border-top-color: #c0392b;
+}
+
+.btn-filter-active:before {
+    border-bottom-color: #c0392b;
+}
+
+.scroll-up:before {
+    border-right-color: #c0392b;
+}
